@@ -19,5 +19,6 @@ public class Main {
         } else {
             System.out.println("Your child is an old person.");
         }
+        scaner.close();
     }
 }
